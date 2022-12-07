@@ -1,4 +1,4 @@
 #!/bin/bash
-echo $(($TRUEKNOWLEDGE+12B))
+echo -e $((128 + TRUEKNOWLEDGE))
 
 
